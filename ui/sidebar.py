@@ -132,7 +132,7 @@ def render_sidebar():
             )
             st.session_state.gen_model = st.selectbox(
                 "Generation Model",
-                options=["gemini-2.0-flash", "gemini-2.5-pro"],
+                options=["gemini-2.0-flash", "gemini-2.5-flash", "gemini-2.5-pro"],
                 index=0,
                 help="Model used for generating answers",
             )
