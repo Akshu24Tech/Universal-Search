@@ -73,7 +73,3 @@ universal-search/
 ## 🎨 Theme: Neural Dark
 
 Deep space black background, electric violet + cyan accents, glassmorphism cards, animated gradient borders, and a subtle noise overlay for premium texture.
-
-## 📝 License
-
-MIT
